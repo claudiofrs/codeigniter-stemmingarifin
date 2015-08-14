@@ -3,13 +3,13 @@
 
 Library ini BUKAN buat dari scratch, merupakan konversi dari https://goo.gl/FDJjnn menjadi library codeigniter untuk memudahkan penggunaan text mining pada platform codeigniter.
 
-#Instalasi
+## Instalasi
 Coming soon, tunggu aja yak haha :)
 
-#Penggunaan
+## Penggunaan
 Coming soon, tunggu aja yak haha :)
 
-#Kredit
+## Kredit
 Alamat asli kode sumber php: https://goo.gl/FDJjnn
 
-#Lisensi
+## Lisensi
