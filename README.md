@@ -9,7 +9,7 @@ Coming soon, tunggu aja yak haha :)
 #Penggunaan
 Coming soon, tunggu aja yak haha :)
 
-#Kontak
-Alamat asli kode sumber php >> https://goo.gl/FDJjnn
+#Kredit
+Alamat asli kode sumber php: https://goo.gl/FDJjnn
 
-*Twitter: http://www.twitter.com/claudiofrs
+#Lisensi
