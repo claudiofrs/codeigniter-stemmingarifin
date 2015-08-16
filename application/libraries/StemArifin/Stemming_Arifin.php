@@ -45,7 +45,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				}
 			}
 
-			return json_encode($stemmed);	
+			return $stemmed;	
 			//return json_encode($arrKalimat);	//DEBUG
 
 		}
